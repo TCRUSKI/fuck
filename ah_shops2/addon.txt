@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"Ah Npc"
+	"version"			"1.0.0"
+	"up_date"			"8/21/2016"
+	"author_name"			"Mikael #"
+	"author_email"			"mikaelgame@hotmail.com"
+	"author_url"			"xanathroleplay.net"
+	"info"				"Simple config npc."
+	"override"			"0"
+}

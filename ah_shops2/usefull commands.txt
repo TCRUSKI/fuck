@@ -1,0 +1,13 @@
+CHAT:
+
+Type /ahmenu in to the chat if you are superadmin, then the npc spawn menu open.
+
+
+CONSOLE:
+
+To set a spawn location for the props from the prop shop.
+save_ah_vector
+
+To save all spawned shops.
+save_ah_shops
+
